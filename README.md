@@ -9,6 +9,7 @@
 
 ## 만들어본 것
 
-- 특정 수의 약수 중 소수찾기
-- 재귀를 이용한 팩토리얼과 피보나치 수열
-- 전화번호부 찾기 
+- 특정 수의 약수 중 소수찾기 (find_prime_divisors.py)
+- 재귀를 이용한 팩토리얼과 피보나치 수열 (recursion.py)
+- 전화번호부 찾기 (phonebook)
+- opencv와 numpy를 이용해서 점을 선으로 잇는 프로그램 (draw_circle_and_line.py)
